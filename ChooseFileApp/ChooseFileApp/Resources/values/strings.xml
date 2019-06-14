@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChooseFileApp</string>
+    <string name="action_settings">Settings</string>
+
+
+  <string name="ok">OK</string>
+  <string name="permissions_not_granted">Permissions were not granted.</string>
+  <string name="permission_access_storage_rationale">ReadExternalStorage permission is needed to show the camera preview.</string>
+
+  <string name="permission_available_access_storage">ReadExternalStorage Permission has been granted. Preview can now be opened.</string>
+</resources>
